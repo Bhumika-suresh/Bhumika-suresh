@@ -60,10 +60,10 @@ My interests include software development, AI-powered applications, web developm
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/bhumika-suresh" target="_blank">
+  <a href="https://www.linkedin.com/in/bhumika-suresh/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
-  <a href="bhumikasureshtr@gmail.com" target="_blank">
+  <a href="mailto:bhumikasureshtr@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/bhumikasureshh?igsh=YTIwajkyd3VraDBk" target="_blank">
